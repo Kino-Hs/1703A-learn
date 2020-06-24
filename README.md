@@ -1,2 +1,2 @@
-# 1703A-learn
+# learn
 learn Git
